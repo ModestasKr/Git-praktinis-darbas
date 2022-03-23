@@ -1,0 +1,378 @@
+    1  git config --global user.email "modestaskrisciunas2@gmail.com"
+    2  git config --global user.name "Modestas"
+    3  git config --global-- list
+    4  git config --global --list
+    5  git config --global core.editor "code --wait"
+    6  git config --global --list
+    7  git log
+    8  mkdir studentai
+    9  cd studentai
+   10  git init
+   11  echo "Modestas Krisciunas" >> studentai.dat
+   12  git commit -m "Added my name to studentai.dat"
+   13  git add studentai.dat
+   14  git log
+   15  git commit -m "Added my name to studentai.dat"
+   16  git log
+   17  mkdir lean_git
+   18  mkdir learn_git
+   19  cd learn_git
+   20  get init
+   21  git init
+   22  git add first.txt
+   23  echo "Modestas Krisciunas" >> learn_git
+   24  git add first.txt
+   25  first_txt
+   26  git first_txt
+   27  echo "Modestas Krisciunas" >> learn_git
+   28  git add first.txt
+   29  echo "Modestas Krisciunas" >> first.txt
+   30  git add first.txt
+   31  git commit -m "Added my name to first,txt"
+   32  git log
+   33  git commit -m "Added my name to first.txt"
+   34  git log
+   35  ssh-keygen -t ed25519 -C "modestaskrisciunas2@gmail.com"
+   36  eval "$(ssh-agent -s)"
+   37  ssh-add ~/.ssh/id_ed25519
+   38  clip < ~/.ssh/id_ed25519.pub
+   39  mkdir kr_github
+   40  cd kr_github/
+   41  https://github.com/ModestasKr/kr_repository.git
+   42  git clone git@github.com:ModestasKr/kr_repository.git
+   43  cd kr_repository/
+   44  git log
+   45  git add .
+   46  git commit -m "added text.txt"
+   47  git log
+   48  git commit -m "added text.txt"
+   49  git add
+   50  git add .
+   51  git commit -m "added text.txt"
+   52  git commit -m "added tex"
+   53  git commit -m "added text"
+   54  git status
+   55  cd kr_repository
+   56  git add text.txt
+   57  git add .
+   58  git commit -m "added text.txt"
+   59  cd kr_repository
+   60  echo "Modestas Krisciunas" >> text.txt
+   61  git add text.txt
+   62  git commit -m "added text.txt"
+   63  git log
+   64  git push -u origin master
+   65  git remote add origin git@github.com:ModestasKr/kr_repository.gitgit push -u origin master
+   66  git push -u origin main
+   67  git push -u origin master
+   68  git remote add origin git@github.com:ModestasKr/kr_repository.gitgit push -u origin master
+   69  git remote add origin git@github.com:ModestasKr/kr_repository.gitgit push -u origin mastergit@github.com:ModestasKr/kr_repository.gitgit push -u origin master
+   70  git remote add origin git@github.com:ModestasKr/kr_repository.gitgit push -u origin master
+   71  git remote add origin git@github.com:ModestasKr/kr_repository.git
+   72  git push -u origin master
+   73  cd kr_repository
+   74  git add .
+   75  git log
+   76  git clone git@github.com:ModestasKr/kr_repository.git
+   77  cd kr_repository
+   78  git
+   79  git commit -m "added text1.txt"
+   80  git log
+   81  echo "Modestas Krisciunas" >> text1.txt
+   82  git add text1.txt
+   83  git commit -m "added text1.txt"
+   84  git log
+   85  git push -u origin master
+   86  git push origin master
+   87  git pull request
+   88  git pull text1.txt
+   89  git push text1.txt
+   90  git remote add origin git@github.com:ModestasKr/kr_repository.git
+   91  git push -u origin master
+   92  git start
+   93  git --help
+   94  git status
+   95  mkdir repo
+   96  git status
+   97  cd repo
+   98  rm repo
+   99  cd Newrepo
+  100  cd ~/dekstop/Newrepo
+  101  cd ~/Documents/MK
+  102  cd Newrepo
+  103  git init
+  104  touch new_text.txt
+  105  git add.
+  106  git add .
+  107  git status
+  108  git commit -m "new_text.txt"
+  109  git status
+  110  git status
+  111  git commit -m "new_text.txt"
+  112  git status
+  113  git add .
+  114  git status
+  115  git commit -m "new_text.txt"
+  116  git status
+  117  git add .
+  118  git commit
+  119  git status
+  120  git rm New_text.txt
+  121  git log
+  122  q
+  123  git log --oneline
+  124  git shortlog
+  125  git log --graph --oneline
+  126  git clone https://github.com/kitas-gitas/git-praktinis-restore-reset.git
+  127  git status
+  128  git log
+  129  cd git-praktinis-restore-reset
+  130  git status
+  131  git log
+  132  git log --online
+  133  git log --oneline
+  134  git checkout head lyrics.txt
+  135  git checkout HEAD lyrics.txt
+  136  git checkout 485a339 lyrics.txt
+  137  git checkout master
+  138  git log --reverse
+  139  git log --oneline
+  140  git branch scrambled-eggs cdd927c
+  141  status
+  142  git status
+  143  git branch scrambled-eggs cdd927c
+  144  git chechout -b scrambled-eggs cdd927c
+  145  git checkout -b scrambled-eggs cdd927c
+  146  cd git-praktinis-restore-reset
+  147  cd boom
+  148  git rm lyrics.txt
+  149  git rm -f lyrics.txt
+  150  git status
+  151  git commit -m "Nupisau gaidy"
+  152  git status
+  153  git log --oneline
+  154  git status
+  155  git restore .
+  156  git config --global --list
+  157  git clone git@github.com:HenrikasKr/01-19-22-Praktiika.git
+  158  git cd 01-19-22-Praktiika.git
+  159   cd 01-19-22-Praktiika.git
+  160  git cd 01-19-22-Praktiika
+  161  git cd /01-19-22-Praktiika
+  162  cd /01-19-22-Praktiika
+  163   cd 01-19-22-Praktiika
+  164  git switch -c bugfix
+  165  touch newfile.txt
+  166  echo "Hello" > newfile2.txt
+  167  git add .
+  168  git status
+  169  git commit -m "fixingBuggies"
+  170  git push
+  171  git push origin bugfix
+  172  git clone git@github.com:HenrikasKr/01-19-22-Praktiika.git
+  173  git switch -c lol
+  174  touch testas.txt
+  175  gti add .
+  176  git add .
+  177  git commit -m "testas"
+  178  git push origin "testas"
+  179  git push origin "lol"
+  180  git status
+  181  echo "prakaituosiu" > haha.txt
+  182  git add .
+  183  git commit -m "prakaituosiu UwU"
+  184  git push
+  185  git push origin "lol"
+  186  git init
+  187  echo labas > labas.txt
+  188  echo labas >> labas.txt
+  189  git add.
+  190  git add .
+  191  git commit -m "added labas.txt"
+  192  echo Hello >> labas.txt
+  193  git add .
+  194  git commit -m "added new text to labas.txt"
+  195  touch tuscias.txt
+  196  git add .
+  197  git commit -m "added tuscias.txt"
+  198  git status --oneline
+  199  git log --oneline
+  200  git switch -c branchfix
+  201  touch hello.txt
+  202  git add .
+  203  git commit -m "added hello.txt"
+  204  echo hello >> hello.txt
+  205  git add .
+  206  git commit -m "added new text to hello.txt"
+  207  git merge branchfix
+  208  git merge branchfix
+  209  git switch master
+  210  git merge branchfix
+  211  git log --oneline
+  212  git branch -d branchfix
+  213  git switch -c buggy
+  214  touch hello2.txt
+  215  git add .
+  216  git commit -m "added hello2"
+  217  git switch master
+  218  echo labas > labas2.txt
+  219  git add .
+  220  git commit -m "added labas2.txt"
+  221  git merge -s recursive buggy
+  222  git log --oneline
+  223  git log --oneline --graph --all
+  224  git init
+  225  git status
+  226  git add data.json
+  227  git status
+  228  git commit -m "Added json data for mountains"
+  229  git branch -M main
+  230  git remote add origin git@github.com:ModestasKr/Mountains.git
+  231  git push -u origin main
+  232  git clone git@github.com:ModestasKr/Mountains.git
+  233  git push -u origin main
+  234  status
+  235  git status
+  236  git remote add origin git@github.com:ModestasKr/Mountains.git
+  237  git push -u origin main
+  238  git pull
+  239  git push -u origin main
+  240  git push -u origin main --force
+  241  git status
+  242  git add data.json
+  243  git commit -m "changed data.json"
+  244  git remote add origin git@github.com:ModestasKr/Mountains.git
+  245  git push -u origin main
+  246  git clone git@github.com:ModestasKr/Birds.git
+  247  git config --lsit
+  248  git config
+  249  git config user.name
+  250  git config user.emial
+  251  git config user.email
+  252  git init
+  253  touch first.txt
+  254  echo dasdasd >> second.txt
+  255  git add .
+  256  git commit
+  257  git remote add origin https://github.com/ModestasKr/animals1337.git
+  258  git remote add origin https://ModestasKr@github.com/ModestasKr/animals1337.git
+  259  git remote set-url origin https://ModestasKr@github.com/ModestasKr/animals1337.git
+  260  git remote -v
+  261  git push -u origin master
+  262  git push -u origin maain
+  263  git push -u origin main
+  264  git push -u origin main
+  265  git switch -c animals
+  266  echo Honeybadger >> favorites.txt
+  267  git add .
+  268  git branch -d animals
+  269  git switch main
+  270  git branch -d animals
+  271  git status
+  272  git fetch
+  273  git branch
+  274  git branch -a
+  275  git switch animals
+  276  git add
+  277  git status
+  278  git add .
+  279  git commit -m "Added 3rd animal"
+  280  git push
+  281  git status
+  282  git log --oneline
+  283  git switch main 
+  284  git stash
+  285  git switch main 
+  286  git stash
+  287  git status
+  288  git restore .
+  289  git status
+  290  git log --oneline --all
+  291  git status
+  292  git add .
+  293  git status
+  294  git restore --hard HEAD~1
+  295  git reset --hard HEAD~1
+  296  git log --oneline --all
+  297  git status
+  298  git pull
+  299  git log --oneline --all
+  300  git status
+  301  bash script.sh
+  302  #!/bin/bash
+  303  let x=15
+  304  let y=3
+  305  echo $(($x + $y))
+  306  bash script.sh
+  307  bash script.sh
+  308  bash script.sh
+  309  bash script.sh
+  310  bash script.sh
+  311  bash script.sh
+  312  git init
+  313  touch studentas.txt
+  314  git status
+  315  git add.
+  316  git add .
+  317  git commit -m "added studentas.txt"
+  318  git init
+  319  touch studentas.txt
+  320  git add .
+  321  git commit -m "added studentas.txt"
+  322  git add .
+  323  git commit -m "added surname studentas.txt"
+  324  git log
+  325  touch .gitignore
+  326  git status
+  327  git add .
+  328  git commit -m "added .gitignore for *.log"
+  329  git remote add origin git@github.com:ModestasKr/Git-praktinis-darbas.git
+  330  git push
+  331  git push --setupsteam origin main
+  332  git push --set--upstream origin main
+  333  git push
+  334  git push --set--upstream origin main
+  335  git push --set-upstream origin main
+  336  git switch -c "grupes-numeris"
+  337  git status
+  338  git add .
+  339  git commit -m "Added group number"
+  340  git pull
+  341  git switch main
+  342  git pull
+  343  git log --oneline --graph --all
+  344  git switch grupes_numeris
+  345  git switch "grupes_numeris"
+  346  git branch "grupes_numeris"
+  347  git branch grupes_numeris
+  348  git switch grupes_numeris
+  349  git merge
+  350  git merge main
+  351  git merge grupes_numeris
+  352  git rebase grupes_numeris
+  353  git rebase main
+  354  git checkout grupes_numeris
+  355  git switch main
+  356  git rebase main
+  357  git switch grupes_numeris
+  358  git status
+  359  git merge grupes_numeris
+  360  git status
+  361  git log --oneline --graph --all
+  362  git merge cd6ede2
+  363  git merge a06f33e
+  364  git merge a06f33e
+  365  git status
+  366  git add .
+  367* 
+  368  git push
+  369  git push --set-upstream origin grupes_numeris
+  370  git switch
+  371  git switch main
+  372  git pull
+  373  git branch -d "grupes_numeris"
+  374  git status
+  375  git status
+  376  git add .
+  377  git commit -m "paskutinis commitas"
+  378  history > history.txt

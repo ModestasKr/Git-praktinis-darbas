@@ -1,0 +1,11 @@
+* 54865e1 paskutinis commitas
+*   fb5eec7 Merge pull request #1 from ModestasKr/grupes_numeris
+|\  
+| * 4bc623c merging
+|/| 
+| * a06f33e Added group number
+* | cd6ede2 Update studentas.txt
+|/  
+* 6980085 added .gitignore for *.log
+* 368bb7c added surname studentas.txt
+* 2f26a9d added studentas.txt
